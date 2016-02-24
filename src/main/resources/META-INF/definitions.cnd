@@ -1,0 +1,2 @@
+[jnt:velocityNode] > jnt:content, mix:title, jmix:basicContent
+- velocityText (string) i18n
