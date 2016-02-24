@@ -60,9 +60,9 @@ please contact the sales department at sales@jahia.com.
     <description>This module provides examples of usage of the Velocity language as a scripting language for Jahia</description>
 
     <scm>
-        <connection>scm:git:git@github.com:Jahia/scriptlanguages-velocity.git</connection>
-        <developerConnection>scm:git:git@github.com:Jahia/scriptlanguages-velocity.git</developerConnection>
-        <url>scm:git:git@github.com:Jahia/scriptlanguages-velocity.git</url>
+        <connection>scm:git:git@github.com:Jahia/scriptlanguages-velocity-examples.git</connection>
+        <developerConnection>scm:git:git@github.com:Jahia/scriptlanguages-velocity-examples.git</developerConnection>
+        <url>scm:git:git@github.com:Jahia/scriptlanguages-velocity-examples.git</url>
     </scm>
 
     <distributionManagement>
