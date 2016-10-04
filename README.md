@@ -1,8 +1,9 @@
 # scriptlanguages-velocity-examples
 
-A simple example on how to use Velocity as a scripting language for Jahia views.
-All standard Jahia variables are exposed as Velocity variables, you can display node contents,
-etc.
+A simple example on how to use Velocity as a scripting language for Jahia DX views.
+All standard Jahia DX variables are exposed as Velocity variables, you can display node contents,
+etc. For more information about Jahia Digital Experience Manager (DX), please go to: 
+https://www.jahia.com/platform/digital-experience-manager
 
 ## Requirements
 - Jahia 7.2.0.0 or more recent
